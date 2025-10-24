@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Sanofi-Bio Project**
 
 - 🌱 I’m currently learning **Enhancing skills in Kinaxis Maestro for supply chain planning and analytics.**
-- 
+  
 ### Know about my experiences 👨‍💻
 - 7 Years of  experience  in  supply chain domain like Supply Planning, Procurement ,  Module worked across  Baan and Kinaxis Tools
 - Experience in Authoring ,Enhancement, Supply Planning ,Procurement
@@ -16,13 +16,13 @@
 - Provide and analysis Clear to Build (CTB) reports based on Kinaxis Rapid Respond on the latest customer order, forecast, material availability and ETA update<
 - Loading of approved demand in ERP , Validate load in ERP, MRP job check and MRP Output Validation
 
-#### Certification 📝 
- -Certified on Kinaxis Rapid Response SC-1
- -Certified on Kinaxis Rapid Response IC-1
+#### Certifications 📝 
+ - Certified on Kinaxis Rapid Response SC-1
+ - Certified on Kinaxis Rapid Response IC-1
 
 📜 **Education**
 
-*Bachelor of Engineering in Electrical & Electronics*
+**Bachelor of Engineering in Electrical & Electronics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
