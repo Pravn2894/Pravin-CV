@@ -1,24 +1,27 @@
-# Pravin Kumar<h3 align="right"> ![Uploading image.png…]()
-                                                                                                               
+# Pravin Kumar<h3 align="right"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/09ec7ec3-7d98-4ac9-98b5-03d0218dad8b" />
+
 ## Kinaxis Solution Consultant
 
-<h3 align="center">Associate - Projects at Cognizant with hands-on experience in Supply Chain Management. Known for delivering tasks on time and supporting team goals with integrity and precision</h3>
+<h3 align="left">Associate - Projects at Cognizant with hands-on experience in Supply Chain Management. Known for delivering tasks on time and supporting team goals with integrity and precision Demonstrated commitment to organizational integrity through timely completion of mandatory training and proactive engagement with team initiatives. Known for reliability, attention to detail, and a strong sense of accountability in fast-paced corporate settings.</h3>
 
 - 🔭 I’m currently working on **Sanofi-Bio Project**
 
-- 🌱 I’m currently learning **Currently enhancing skills in Kinaxis Maestro for supply chain planning and analytics.**
+- 🌱 I’m currently learning **Enhancing skills in Kinaxis Maestro for supply chain planning and analytics.**
 
 - 📫 How to reach me 📧 **Pravin.Kumar@cognizant.com** 📞-**9840517192**
   
   📄 **Know about my experiences**
 - 7 Years of  experience  in  supply chain domain like Supply Planning, Procurement ,  Module worked across  Baan and Kinaxis Tools
 - Experience in Authoring ,Enhancement, Supply Planning ,Procurement
--Strong communication, interpersonal, analytical, and problem-solving skills
--Core Domain Experience in Supply Chain Management
+- Strong communication, interpersonal, analytical, and problem-solving skills
+- Core Domain Experience in Supply Chain Management
+- Knowledge about Rapid Response (Kinaxis) and handling Workbooks and using Planning related activities.
+- Provide and analysis Clear to Build (CTB) reports based on Kinaxis Rapid Respond on the latest customer order, forecast, material availability and ETA update<
+- Loading of approved demand in ERP , Validate load in ERP, MRP job check and MRP Output Validation
 
-📜 **Certification**
--Certified on Kinaxis Rapid Response SC-1
--Certified on Kinaxis Rapid Response IC-1
+ 📜 **Certification**
+  -Certified on Kinaxis Rapid Response SC-1
+  -Certified on Kinaxis Rapid Response IC-1
 
 👨‍💻 **Education**-Bachelor of Engineering in Electrical & Electronics 
 
