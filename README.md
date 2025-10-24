@@ -13,8 +13,10 @@
 - Strong communication, interpersonal, analytical, and problem-solving skills
 - Core Domain Experience in Supply Chain Management
 - Knowledge about Rapid Response (Kinaxis) and handling Workbooks and using Planning related activities.
-- Provide and analysis Clear to Build (CTB) reports based on Kinaxis Rapid Respond on the latest customer order, forecast, material availability and ETA update<
+- Provide and analysis Clear to Build (CTB) reports based on Kinaxis Rapid Respond on the latest customer order, forecast, material availability and ETA update
 - Loading of approved demand in ERP , Validate load in ERP, MRP job check and MRP Output Validation
+- Balancing of Inventory under tight-supply/global shortage to avoid or minimize the production loss
+- Waterfall Analysis and Demand Gap analysis , Forecast Accuracy, Shortages , PO action Messages
 
 #### Certifications 📝 
  - Certified on Kinaxis Rapid Response SC-1
