@@ -1,6 +1,7 @@
-# Pravin Kumar ![Pravin](https://github.com/user-attachments/assets/197516a5-ed24-4075-a4e1-eaf4fe42bc51)
-
+# Pravin Kumar<h3 align="right"> ![Uploading image.png…]()
+                                                                                                               
 ## Kinaxis Solution Consultant
+
 <h3 align="center">Associate - Projects at Cognizant with hands-on experience in Supply Chain Management. Known for delivering tasks on time and supporting team goals with integrity and precision</h3>
 
 - 🔭 I’m currently working on **Sanofi-Bio Project**
@@ -8,18 +9,18 @@
 - 🌱 I’m currently learning **Currently enhancing skills in Kinaxis Maestro for supply chain planning and analytics.**
 
 - 📫 How to reach me 📧 **Pravin.Kumar@cognizant.com** 📞-**9840517192**
-- 
-- 📄 **Know about my experiences**
+  
+  📄 **Know about my experiences**
 - 7 Years of  experience  in  supply chain domain like Supply Planning, Procurement ,  Module worked across  Baan and Kinaxis Tools
 - Experience in Authoring ,Enhancement, Supply Planning ,Procurement
 -Strong communication, interpersonal, analytical, and problem-solving skills
 -Core Domain Experience in Supply Chain Management
 
--📜 **Certification**
+📜 **Certification**
 -Certified on Kinaxis Rapid Response SC-1
 -Certified on Kinaxis Rapid Response IC-1
 
--👨‍💻 **Education**-Bachelor of Engineering in Electrical & Electronics 
+👨‍💻 **Education**-Bachelor of Engineering in Electrical & Electronics 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
