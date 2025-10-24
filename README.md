@@ -1,5 +1,5 @@
 # Pravin Kumar 
-## Kinaxis Solution Consultant <h3 align="right"> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/09ec7ec3-7d98-4ac9-98b5-03d0218dad8b" /></h3>
+## Kinaxis Solution Consultant <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/09ec7ec3-7d98-4ac9-98b5-03d0218dad8b" />
 
 *Associate - Projects at Cognizant with hands-on experience in Supply Chain Management. Known for delivering tasks on time and supporting team goals with integrity and precision Demonstrated commitment to organizational integrity through timely completion of mandatory training and proactive engagement with team initiatives. Known for reliability, attention to detail, and a strong sense of accountability in fast-paced corporate settings*
 
@@ -24,7 +24,7 @@
 
 📜 **Education**
 
-**Bachelor of Engineering in Electrical & Electronics**
+*Bachelor of Engineering in Electrical & Electronics*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
